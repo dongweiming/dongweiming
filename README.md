@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm DongWeiMing</h1>
-<h3 align="center">I'm a backend developer and technical writer based in Beijing, China.</h3>
+Hi there 👋
 
-<p align="left">
+**📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎:**
 
-* 💼 Currently working at [Douban](https://github.com/douban) <br/>
-* 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
-* ✍🏻 I wrote dev articles on [MY Blog](https://www.dongwm.com) <br/>
-* 📫 Contact me [Email](mailto:ciici123@gmail.com)
+* 🖥 𝙸'𝚖 backend 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 and technical writer based in Beijing, China. 
+* 💼 Currently working at [@Douban](https://github.com/douban) 
+* ✍🏻 I wrote dev articles on [My Blog](https://www.dongwm.com) 
+* 🧐 Interested in full stack. Recent focus on backend.
+* 🎮 I’m a console game fan and I have played many PS4 and Nintendo Switch games.
 
-<p>
 
 **Languages and Tools:**
 
@@ -30,6 +29,7 @@
 <p align="center">
   <a href="https://twitter.com/dongweiming" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dongweiming" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/dongweiming" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dongweiming" height="30" width="30" /></a>
+  <a href="mailto:ciici123@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/email.svg" alt="email" height="30" width="30" /></a>
 </p>
 
 <p>
@@ -37,3 +37,12 @@
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dongweiming.dongweiming)
+
+**📝 Blog posts:**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
