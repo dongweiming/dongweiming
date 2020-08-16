@@ -38,7 +38,6 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
-
 - [property的AttributeError的传播问题](/post/attributeerror-propagation/)
 - [不知道取什么标题之任天堂理财](/post/nintendo-financing/)
 - [不知道取什么标题之战胜脱发](/post/tuofa/)
