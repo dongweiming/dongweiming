@@ -38,11 +38,11 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
-- [property的AttributeError的传播问题](/post/attributeerror-propagation/)
-- [不知道取什么标题之任天堂理财](/post/nintendo-financing/)
-- [不知道取什么标题之战胜脱发](/post/tuofa/)
-- [2020年，PEP8指定一行最大长度79的标准是否值得坚持？](/post/pep8-max-line-length/)
-- [2019年小结](/post/2019-final/)
+- [property的AttributeError的传播问题](https://www.dongwm.com/post/attributeerror-propagation/)
+- [不知道取什么标题之任天堂理财](https://www.dongwm.com/post/nintendo-financing/)
+- [不知道取什么标题之战胜脱发](https://www.dongwm.com/post/tuofa/)
+- [2020年，PEP8指定一行最大长度79的标准是否值得坚持？](https://www.dongwm.com/post/pep8-max-line-length/)
+- [2019年小结](https://www.dongwm.com/post/2019-final/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
