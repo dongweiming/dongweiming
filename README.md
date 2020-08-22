@@ -44,6 +44,12 @@
 - [2020年，PEP8指定一行最大长度79的标准是否值得坚持？](https://www.dongwm.com/post/pep8-max-line-length/)
 - [2019年小结](https://www.dongwm.com/post/2019-final/)
 <!-- BLOG-POST-LIST:END -->
+More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
+
+**✨ 豆瓣动态**
+
+<!-- DOUBAN-ACTIVITIES:START -->
+<!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongweiming&layout=compact&hide=html" alt="dongweiming" />
