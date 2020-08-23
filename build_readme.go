@@ -70,17 +70,31 @@ func WriteToFile(path string, items []string) {
 	}
 	defer f.Close()
 
+	stop := false
 	w := bufio.NewWriter(f)
 	for _, line := range lines {
 		line = strings.TrimSpace(line)
-		if line == "<!-- DOUBAN-ACTIVITIES:START -->" {
+
+		if !stop && line == "<!-- DOUBAN-ACTIVITIES:START -->" {
+			fmt.Fprintln(w, line)
+			stop = true
+		}
+
+		if line == "<!-- DOUBAN-ACTIVITIES:END -->" {
+			stop = false
 			for _, item := range items {
 				fmt.Fprintln(w, item)
 			}
 		}
-		fmt.Fprintln(w, line)
+
+		if !stop {
+			fmt.Fprintln(w, line)
+		}
+
 	}
-	return w.Flush()
+	if err = w.Flush(); err != nil {
+		log.Fatal(err)
+	}
 }
 
 func main() {
