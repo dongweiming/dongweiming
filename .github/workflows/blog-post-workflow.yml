@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
+    # Runs every 2 hour
     - cron: "0 */2 * * *"
 
 jobs:

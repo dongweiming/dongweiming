@@ -49,7 +49,8 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [转发 壳壳子 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3078158821/)
+- [转发 若锦 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3079909752/)
+- [看过 小武‎ (1998)](https://www.douban.com/doubanapp/dispatch?uri=/status/3079902362/)
 - [看过 雾山五行‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3076136652/)
 - [想看 第九区 District 9‎ (2009)](https://www.douban.com/doubanapp/dispatch?uri=/status/3074526320/)
 - [想看 最后生还者 The Last of Us‎ (2021)](https://www.douban.com/doubanapp/dispatch?uri=/status/3072395702/)
@@ -68,7 +69,6 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 - [说: 一直对物质要求很低，最近刚和老婆讨论消费降级还觉得我也没什么降的。昨天属于我的那个艾莉版限定历经波折终于到了，特... ](https://www.douban.com/doubanapp/dispatch?uri=/status/3041827270/)
 - [写了 Test](https://www.douban.com/doubanapp/dispatch?uri=/status/3039456909/)
 - [转发 开膛手贝塔 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3039334532/)
-- [转发 漫游者戴君 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3033444657/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
