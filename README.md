@@ -59,16 +59,6 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 - [转发 礼拜文 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3068249365/)
 - [玩过 最后生还者第二部分 The Last of Us Part II](https://www.douban.com/doubanapp/dispatch?uri=/status/3066562897/)
 - [玩过 对马岛之魂 Ghost of Tsushima](https://www.douban.com/doubanapp/dispatch?uri=/status/3066560317/)
-- [转发 心匠 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3066501797/)
-- [说: 我猜拼夕夕上销量更高🤔 ](https://www.douban.com/doubanapp/dispatch?uri=/status/3062649755/)
-- [转发 祁十一 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3061474881/)
-- [想看 猎谎者‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3056239375/)
-- [看过 三十而已‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3055781825/)
-- [想看 勇往直前 Only the Brave‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3044577187/)
-- [说: 《红辣椒》 嗯#话题# ](https://www.douban.com/doubanapp/dispatch?uri=/status/3043324233/)
-- [说: 一直对物质要求很低，最近刚和老婆讨论消费降级还觉得我也没什么降的。昨天属于我的那个艾莉版限定历经波折终于到了，特... ](https://www.douban.com/doubanapp/dispatch?uri=/status/3041827270/)
-- [写了 Test](https://www.douban.com/doubanapp/dispatch?uri=/status/3039456909/)
-- [转发 开膛手贝塔 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3039334532/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
