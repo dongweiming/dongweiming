@@ -49,7 +49,6 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [转发 若锦 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3079909752/)
 - [看过 小武‎ (1998)](https://www.douban.com/doubanapp/dispatch?uri=/status/3079902362/)
 - [看过 雾山五行‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3076136652/)
 - [想看 第九区 District 9‎ (2009)](https://www.douban.com/doubanapp/dispatch?uri=/status/3074526320/)
@@ -59,6 +58,7 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 - [转发 礼拜文 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3068249365/)
 - [玩过 最后生还者第二部分 The Last of Us Part II](https://www.douban.com/doubanapp/dispatch?uri=/status/3066562897/)
 - [玩过 对马岛之魂 Ghost of Tsushima](https://www.douban.com/doubanapp/dispatch?uri=/status/3066560317/)
+- [转发 心匠 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3066501797/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
