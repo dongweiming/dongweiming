@@ -1,10 +1,11 @@
 **👋 Hello, folks! :**
 
-* 🖥 𝙸'𝚖 product developer and technical writer based in Beijing, China.
-* 💼 Currently working at <a href="https://github.com/douban" target="_blank">@Douban</a>
-* ✍🏻 I wrote dev articles on <a href="https://www.dongwm.com" target="_blank">My Blog</a>
-* 🧐 Interested in full stack. Recent focus on backend.
-* 🎮 I’m a console game fan and I have played many <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/ps4.svg" alt="ps4" width="20" height="20"/> and <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/nintendoswitch.svg" alt="switch" width="20" height="20"/>  games.
+* 🖥  I'm product developer and technical writer based in Beijing, China.
+* 🔍 I'm currently looking for remote work.
+* 💼 Previously, I was working at <a href="https://github.com/douban" target="_blank">@Douban</a>
+* ✍️  I wrote dev articles on <a href="https://www.dongwm.com" target="_blank">My Blog</a>
+* 🧐 I'm Interested in full stack. Recent focus on backend.
+* 🎮 I'm a console game fan and I have played many <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/ps4.svg" alt="ps4" width="20" height="20"/> and <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/nintendoswitch.svg" alt="switch" width="20" height="20"/>  games.
 
 **🌈 Languages and Tools:**
 
@@ -54,7 +55,7 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 - [想看 第九区 District 9‎ (2009)](https://www.douban.com/doubanapp/dispatch?uri=/status/3074526320/)
 - [想看 最后生还者 The Last of Us‎ (2021)](https://www.douban.com/doubanapp/dispatch?uri=/status/3072395702/)
 - [转发相册 闪电收藏家](https://www.douban.com/doubanapp/dispatch?uri=/status/3071279788/)
-- [转发 酸酸 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3069082255/)
+- [转发 ](https://www.douban.com/doubanapp/dispatch?uri=/status/3069082255/)
 - [转发 礼拜文 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3068249365/)
 - [玩过 最后生还者第二部分 The Last of Us Part II](https://www.douban.com/doubanapp/dispatch?uri=/status/3066562897/)
 - [玩过 对马岛之魂 Ghost of Tsushima](https://www.douban.com/doubanapp/dispatch?uri=/status/3066560317/)
