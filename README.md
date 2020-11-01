@@ -39,11 +39,11 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [博客十年](https://www.dongwm.com/post/ten-years/)
 - [搞了下Github  Profile](https://www.dongwm.com/post/custom-github-profile/)
 - [property的AttributeError的传播问题](https://www.dongwm.com/post/attributeerror-propagation/)
 - [不知道取什么标题之任天堂理财](https://www.dongwm.com/post/nintendo-financing/)
 - [不知道取什么标题之战胜脱发](https://www.dongwm.com/post/tuofa/)
-- [2020年，PEP8指定一行最大长度79的标准是否值得坚持？](https://www.dongwm.com/post/pep8-max-line-length/)
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 
