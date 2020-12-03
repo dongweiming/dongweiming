@@ -50,6 +50,7 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [玩过 恶魔之魂 重制版 Demon's Souls](https://www.douban.com/doubanapp/dispatch?uri=/status/3198396019/)
 - [玩过 盐与避难所 Salt and Sanctuary](https://www.douban.com/doubanapp/dispatch?uri=/status/3196994983/)
 - [玩过 塞尔达无双 灾厄启示录 ゼルダ無双 厄災の黙示録](https://www.douban.com/doubanapp/dispatch?uri=/status/3182871957/)
 - [玩过 哈迪斯 Hades](https://www.douban.com/doubanapp/dispatch?uri=/status/3136212857/)
@@ -59,7 +60,6 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 - [想看 最后生还者 The Last of Us‎ (2021)](https://www.douban.com/doubanapp/dispatch?uri=/status/3072395702/)
 - [转发相册 闪电收藏家](https://www.douban.com/doubanapp/dispatch?uri=/status/3071279788/)
 - [转发 ](https://www.douban.com/doubanapp/dispatch?uri=/status/3069082255/)
-- [转发 礼拜文######## 的动态](https://www.douban.com/doubanapp/dispatch?uri=/status/3068249365/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
