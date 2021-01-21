@@ -50,16 +50,16 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [在玩 赛博朋克2077 Cyberpunk 2077](https://www.douban.com/doubanapp/dispatch?uri=/status/3209179689/)
-- [玩过 恶魔之魂 重制版 Demon's Souls](https://www.douban.com/doubanapp/dispatch?uri=/status/3198396019/)
-- [玩过 盐与避难所 Salt and Sanctuary](https://www.douban.com/doubanapp/dispatch?uri=/status/3196994983/)
-- [玩过 塞尔达无双 灾厄启示录 ゼルダ無双 厄災の黙示録](https://www.douban.com/doubanapp/dispatch?uri=/status/3182871957/)
-- [玩过 哈迪斯 Hades](https://www.douban.com/doubanapp/dispatch?uri=/status/3136212857/)
-- [看过 小武‎ (1998)](https://www.douban.com/doubanapp/dispatch?uri=/status/3079902362/)
-- [看过 雾山五行‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3076136652/)
-- [想看 第九区 District 9‎ (2009)](https://www.douban.com/doubanapp/dispatch?uri=/status/3074526320/)
-- [想看 最后生还者 The Last of Us‎ (2021)](https://www.douban.com/doubanapp/dispatch?uri=/status/3072395702/)
-- [转发相册 闪电收藏家](https://www.douban.com/doubanapp/dispatch?uri=/status/3071279788/)
+- [在玩 赛博朋克2077 Cyberpunk 2077](https://www.douban.com/people/62943420/status/3209179689/)
+- [玩过 恶魔之魂 重制版 Demon's Souls](https://www.douban.com/people/62943420/status/3198396019/)
+- [玩过 盐与避难所 Salt and Sanctuary](https://www.douban.com/people/62943420/status/3196994983/)
+- [玩过 塞尔达无双 灾厄启示录 ゼルダ無双 厄災の黙示録](https://www.douban.com/people/62943420/status/3182871957/)
+- [玩过 哈迪斯 Hades](https://www.douban.com/people/62943420/status/3136212857/)
+- [看过 小武‎ (1998)](https://www.douban.com/people/62943420/status/3079902362/)
+- [看过 雾山五行‎ (2020)](https://www.douban.com/people/62943420/status/3076136652/)
+- [想看 第九区 District 9‎ (2009)](https://www.douban.com/people/62943420/status/3074526320/)
+- [想看 最后生还者 The Last of Us‎ (2021)](https://www.douban.com/people/62943420/status/3072395702/)
+- [转发相册 闪电收藏家](https://www.douban.com/people/62943420/status/3071279788/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
