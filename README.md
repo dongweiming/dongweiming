@@ -50,6 +50,7 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [收藏 Flameskirt☁️☁️ 说](https://www.douban.com/people/62943420/status/3407026596/)
 - [想看 天使爱美丽 Le fabuleux destin d'Amélie Poulain‎ (2001)](https://www.douban.com/people/62943420/status/3290175065/)
 - [在玩 赛博朋克2077 Cyberpunk 2077](https://www.douban.com/people/62943420/status/3209179689/)
 - [玩过 恶魔之魂 重制版 Demon's Souls](https://www.douban.com/people/62943420/status/3198396019/)
@@ -59,7 +60,6 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 - [看过 小武‎ (1998)](https://www.douban.com/people/62943420/status/3079902362/)
 - [看过 雾山五行‎ (2020)](https://www.douban.com/people/62943420/status/3076136652/)
 - [想看 第九区 District 9‎ (2009)](https://www.douban.com/people/62943420/status/3074526320/)
-- [想看 最后生还者 The Last of Us‎ (2021)](https://www.douban.com/people/62943420/status/3072395702/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
