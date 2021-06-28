@@ -50,7 +50,7 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [收藏 Flameskirt☁️☁️ 说](https://www.douban.com/people/62943420/status/3407026596/)
+- [收藏 ](https://www.douban.com/people/62943420/status/3407026596/)
 - [想看 天使爱美丽 Le fabuleux destin d'Amélie Poulain‎ (2001)](https://www.douban.com/people/62943420/status/3290175065/)
 - [在玩 赛博朋克2077 Cyberpunk 2077](https://www.douban.com/people/62943420/status/3209179689/)
 - [玩过 恶魔之魂 重制版 Demon's Souls](https://www.douban.com/people/62943420/status/3198396019/)
