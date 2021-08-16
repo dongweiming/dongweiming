@@ -50,6 +50,7 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [转发 #囧兄# 的动态](https://www.douban.com/people/62943420/status/3553986719/)
 - [收藏 ](https://www.douban.com/people/62943420/status/3407026596/)
 - [想看 天使爱美丽 Le fabuleux destin d'Amélie Poulain‎ (2001)](https://www.douban.com/people/62943420/status/3290175065/)
 - [在玩 赛博朋克2077 Cyberpunk 2077](https://www.douban.com/people/62943420/status/3209179689/)
@@ -59,7 +60,6 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 - [玩过 哈迪斯 Hades](https://www.douban.com/people/62943420/status/3136212857/)
 - [看过 小武‎ (1998)](https://www.douban.com/people/62943420/status/3079902362/)
 - [看过 雾山五行‎ (2020)](https://www.douban.com/people/62943420/status/3076136652/)
-- [想看 第九区 District 9‎ (2009)](https://www.douban.com/people/62943420/status/3074526320/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
