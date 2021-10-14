@@ -39,11 +39,11 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [聊聊写书、技术会议、知名度和变现](https://www.dongwm.com/post/talk-about-writebook-and-something/)
 - [博客十年](https://www.dongwm.com/post/ten-years/)
 - [搞了下Github  Profile](https://www.dongwm.com/post/custom-github-profile/)
 - [property的AttributeError的传播问题](https://www.dongwm.com/post/attributeerror-propagation/)
 - [不知道取什么标题之任天堂理财](https://www.dongwm.com/post/nintendo-financing/)
-- [不知道取什么标题之战胜脱发](https://www.dongwm.com/post/tuofa/)
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 
