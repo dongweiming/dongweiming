@@ -2,7 +2,7 @@ name: Latest douban activities workflow
 on:
   schedule:
     # Runs every 2 hour
-    - cron: "0 */2 * * *"
+    - cron: "30 */2 * * *"
 
 jobs:
   update-readme-with-douban-activities:
