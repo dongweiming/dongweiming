@@ -39,6 +39,7 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [一个使用Flask-Login登录后的Pytest测试用例的坑](https://www.dongwm.com/post/use-pytest-and-flask-login/)
 - [聊聊写书、技术会议、知名度和变现](https://www.dongwm.com/post/talk-about-writebook-and-something/)
 - [博客十年](https://www.dongwm.com/post/ten-years/)
 - [搞了下Github  Profile](https://www.dongwm.com/post/custom-github-profile/)
@@ -48,7 +49,6 @@
 - [2020年，PEP8指定一行最大长度79的标准是否值得坚持？](https://www.dongwm.com/post/pep8-max-line-length/)
 - [2019年小结](https://www.dongwm.com/post/2019-final/)
 - [继续优化博客Vue+Webpack生成的Javascript文件体积](https://www.dongwm.com/post/optimize-javascript/)
-- [从Python2迁移到Python3实战&lpar;二&rpar; - 类型提示&lpar;mypy、monkeytype和pyannotate&rpar;](https://www.dongwm.com/post/type-hints-and-mypy/)
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 
