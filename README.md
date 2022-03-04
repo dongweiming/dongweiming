@@ -60,6 +60,11 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 - [关注 日本惊悚片榜](https://www.douban.com/people/62943420/status/3615828349/)
 - [想看 赌博默示录 逆境無頼カイジ Ultimate Survivor‎ (2007)](https://www.douban.com/people/62943420/status/3615826328/)
 - [想看 不能结婚的男人 結婚できない男‎ (2006)](https://www.douban.com/people/62943420/status/3582002095/)
+- [转发 #囧兄# 的动态](https://www.douban.com/people/62943420/status/3553986719/)
+- [收藏 Flameskirt☁️☁️的广播](https://www.douban.com/people/219780021/status/3389725237/) 到 [豆列 2020年](https://www.douban.com/people/62943420/status/3407026596/)
+- [想看 天使爱美丽 Le fabuleux destin d'Amélie Poulain‎ (2001)](https://www.douban.com/people/62943420/status/3290175065/)
+- [在玩 赛博朋克2077 Cyberpunk 2077](https://www.douban.com/people/62943420/status/3209179689/)
+- [玩过 恶魔之魂 重制版 Demon's Souls](https://www.douban.com/people/62943420/status/3198396019/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
