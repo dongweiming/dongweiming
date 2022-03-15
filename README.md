@@ -55,6 +55,7 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [分享 网信部门工作督导组进驻豆瓣网，部分应用商店已下架豆瓣，有哪些值得关注的信息？ - 知乎](https://www.douban.com/people/62943420/status/3798288955/)
 - [说: 想给 https://douc.cc/0ivECl 添加翻页功能，发现m站用户广播不能翻页了，是要放弃移动站嘛 ](https://www.douban.com/people/62943420/status/3716889878/)
 - [收藏 黄靖昀的广播](https://www.douban.com/people/1001162/status/3698093959/) 到 [豆列 2020年](https://www.douban.com/people/62943420/status/3698916226/)
 - [关注 日本惊悚片榜](https://www.douban.com/people/62943420/status/3615828349/)
@@ -64,7 +65,6 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 - [收藏 Flameskirt☁️☁️的广播](https://www.douban.com/people/219780021/status/3389725237/) 到 [豆列 2020年](https://www.douban.com/people/62943420/status/3407026596/)
 - [想看 天使爱美丽 Le fabuleux destin d'Amélie Poulain‎ (2001)](https://www.douban.com/people/62943420/status/3290175065/)
 - [在玩 赛博朋克2077 Cyberpunk 2077](https://www.douban.com/people/62943420/status/3209179689/)
-- [玩过 恶魔之魂 重制版 Demon's Souls](https://www.douban.com/people/62943420/status/3198396019/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
