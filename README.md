@@ -55,7 +55,6 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [说: 想给 https://douc.cc/0ivECl 添加翻页功能，发现m站用户广播不能翻页了，是要放弃移动站嘛 ](https://www.douban.com/people/62943420/status/3716889878/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
