@@ -39,6 +39,7 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Python并发方案深度对比](https://www.dongwm.com/post/python-concurrent-scheme/)
 - [最推荐使用pip的方式](https://www.dongwm.com/post/you-should-use-python-m-pip/)
 - [一段迷惑的使用海象操作符的代码](https://www.dongwm.com/post/a-walrus-operator-example/)
 - [一个使用Flask-Login登录后的Pytest测试用例的坑](https://www.dongwm.com/post/use-pytest-and-flask-login/)
@@ -48,7 +49,6 @@
 - [property的AttributeError的传播问题](https://www.dongwm.com/post/attributeerror-propagation/)
 - [不知道取什么标题之任天堂理财](https://www.dongwm.com/post/nintendo-financing/)
 - [不知道取什么标题之战胜脱发](https://www.dongwm.com/post/tuofa/)
-- [2020年，PEP8指定一行最大长度79的标准是否值得坚持？](https://www.dongwm.com/post/pep8-max-line-length/)
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 
