@@ -39,6 +39,7 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.10里面的Match-Case语法详解](https://www.dongwm.com/post/match-case/)
 - [Python3.9都带来了什么？](https://www.dongwm.com/post/python-3-9/)
 - [Python并发方案深度对比](https://www.dongwm.com/post/python-concurrent-scheme/)
 - [最推荐使用pip的方式](https://www.dongwm.com/post/you-should-use-python-m-pip/)
@@ -48,7 +49,6 @@
 - [博客十年](https://www.dongwm.com/post/ten-years/)
 - [搞了下Github  Profile](https://www.dongwm.com/post/custom-github-profile/)
 - [property的AttributeError的传播问题](https://www.dongwm.com/post/attributeerror-propagation/)
-- [不知道取什么标题之任天堂理财](https://www.dongwm.com/post/nintendo-financing/)
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 
