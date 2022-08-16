@@ -39,6 +39,8 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.10有哪些有用的新特性或者功能?](https://www.dongwm.com/post/python-3-10/)
+- [Python 3.10新加入的四个和类型系统相关的新特性](https://www.dongwm.com/post/python-3-10-new-typing-feature/)
 - [Python 3.10里面的Match-Case语法详解](https://www.dongwm.com/post/match-case/)
 - [Python3.9都带来了什么？](https://www.dongwm.com/post/python-3-9/)
 - [Python并发方案深度对比](https://www.dongwm.com/post/python-concurrent-scheme/)
@@ -47,8 +49,6 @@
 - [一个使用Flask-Login登录后的Pytest测试用例的坑](https://www.dongwm.com/post/use-pytest-and-flask-login/)
 - [聊聊写书、技术会议、知名度和变现](https://www.dongwm.com/post/talk-about-writebook-and-something/)
 - [博客十年](https://www.dongwm.com/post/ten-years/)
-- [搞了下Github  Profile](https://www.dongwm.com/post/custom-github-profile/)
-- [property的AttributeError的传播问题](https://www.dongwm.com/post/attributeerror-propagation/)
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 
