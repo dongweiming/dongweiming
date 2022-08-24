@@ -39,6 +39,7 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [三套2022年Python十级试题以及答案解析](https://www.dongwm.com/post/python-ten-level-exam/)
 - [Python 3.10有哪些有用的新特性或者功能?](https://www.dongwm.com/post/python-3-10/)
 - [Python 3.10新加入的四个和类型系统相关的新特性](https://www.dongwm.com/post/python-3-10-new-typing-feature/)
 - [Python 3.10里面的Match-Case语法详解](https://www.dongwm.com/post/match-case/)
@@ -48,7 +49,6 @@
 - [一段迷惑的使用海象操作符的代码](https://www.dongwm.com/post/a-walrus-operator-example/)
 - [一个使用Flask-Login登录后的Pytest测试用例的坑](https://www.dongwm.com/post/use-pytest-and-flask-login/)
 - [聊聊写书、技术会议、知名度和变现](https://www.dongwm.com/post/talk-about-writebook-and-something/)
-- [博客十年](https://www.dongwm.com/post/ten-years/)
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 
