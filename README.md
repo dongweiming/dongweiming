@@ -39,6 +39,7 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyanna新的4.X版本 - 收藏](https://www.dongwm.com/post/lyanna-4/)
 - [Python类型系统发展史](https://www.dongwm.com/post/python-type-history/)
 - [Python 3.11有哪些有用的新特性或者功能?](https://www.dongwm.com/post/python-3-11/)
 - [Python 3.11新加入的和类型系统相关的新特性](https://www.dongwm.com/post/python-3-11-new-typing-feature/)
@@ -48,7 +49,6 @@
 - [Python 3.10里面的Match-Case语法详解](https://www.dongwm.com/post/match-case/)
 - [Python3.9都带来了什么？](https://www.dongwm.com/post/python-3-9/)
 - [Python并发方案深度对比](https://www.dongwm.com/post/python-concurrent-scheme/)
-- [最推荐使用pip的方式](https://www.dongwm.com/post/you-should-use-python-m-pip/)
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 
