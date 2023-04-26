@@ -39,6 +39,8 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Stable Diffusion高级教程 -Textual Inversion&lpar;Embedding&rpar;](https://www.dongwm.com/post/stable-diffusion-embedding/)
+- [Stable Diffusion高级教程 - 如何使用Stable Diffusion？](https://www.dongwm.com/post/how-to-use-stable-diffusion/)
 - [Stable Diffusion高级教程 - AIGC发展史和产品对比](https://www.dongwm.com/post/stable-diffusion-history/)
 - [使用基于GPT-4模型的IDE: Cursor用法全解读](https://www.dongwm.com/post/how-to-use-cursor-ide/)
 - [我已经「叛逃」去写Go了](https://www.dongwm.com/post/be-a-gopher/)
@@ -47,8 +49,6 @@
 - [Python 3.11有哪些有用的新特性或者功能?](https://www.dongwm.com/post/python-3-11/)
 - [Python 3.11新加入的和类型系统相关的新特性](https://www.dongwm.com/post/python-3-11-new-typing-feature/)
 - [三套2022年Python十级试题以及答案解析](https://www.dongwm.com/post/python-ten-level-exam/)
-- [Python 3.10有哪些有用的新特性或者功能?](https://www.dongwm.com/post/python-3-10/)
-- [Python 3.10新加入的四个和类型系统相关的新特性](https://www.dongwm.com/post/python-3-10-new-typing-feature/)
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 
