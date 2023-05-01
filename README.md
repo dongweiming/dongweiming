@@ -39,6 +39,7 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Stable Diffusion高级教程 - Script](https://www.dongwm.com/post/stable-diffusion-script/)
 - [Stable Diffusion高级教程 - Extension](https://www.dongwm.com/post/stable-diffusion-extension/)
 - [Stable Diffusion高级教程 - Textual Inversion&lpar;Embedding&rpar;](https://www.dongwm.com/post/stable-diffusion-embedding/)
 - [Stable Diffusion高级教程 - 如何使用Stable Diffusion？](https://www.dongwm.com/post/how-to-use-stable-diffusion/)
@@ -48,7 +49,6 @@
 - [Lyanna新的4.X版本 - 收藏](https://www.dongwm.com/post/lyanna-4/)
 - [Python类型系统发展史](https://www.dongwm.com/post/python-type-history/)
 - [Python 3.11有哪些有用的新特性或者功能?](https://www.dongwm.com/post/python-3-11/)
-- [Python 3.11新加入的和类型系统相关的新特性](https://www.dongwm.com/post/python-3-11-new-typing-feature/)
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 
