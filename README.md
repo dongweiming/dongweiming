@@ -39,6 +39,9 @@
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Stable Diffusion高级教程 - Controlnet](https://www.dongwm.com/post/stable-diffusion-controlnet/)
+- [Stable Diffusion高级教程 - 图生图&lpar;img2img&rpar;模式](https://www.dongwm.com/post/stable-diffusion-img2img/)
+- [Stable Diffusion高级教程 - 微调模型](https://www.dongwm.com/post/stable-diffusion-models/)
 - [Stable Diffusion高级教程 - VAE](https://www.dongwm.com/post/stable-diffusion-vae/)
 - [Stable Diffusion高级教程 - Script](https://www.dongwm.com/post/stable-diffusion-script/)
 - [Stable Diffusion高级教程 - Extension](https://www.dongwm.com/post/stable-diffusion-extension/)
@@ -46,9 +49,6 @@
 - [Stable Diffusion高级教程 - 如何使用Stable Diffusion？](https://www.dongwm.com/post/how-to-use-stable-diffusion/)
 - [Stable Diffusion高级教程 - AIGC发展史和产品对比](https://www.dongwm.com/post/stable-diffusion-history/)
 - [使用基于GPT-4模型的IDE: Cursor用法全解读](https://www.dongwm.com/post/how-to-use-cursor-ide/)
-- [我已经「叛逃」去写Go了](https://www.dongwm.com/post/be-a-gopher/)
-- [Lyanna新的4.X版本 - 收藏](https://www.dongwm.com/post/lyanna-4/)
-- [Python类型系统发展史](https://www.dongwm.com/post/python-type-history/)
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 
