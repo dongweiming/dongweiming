@@ -55,9 +55,6 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [说: 基本清空了动态，清理了很多SB言论。
-
-最后，Python工程师应该转Go. 完 ](https://www.douban.com/people/62943420/status/4066297479/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
