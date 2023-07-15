@@ -55,6 +55,18 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [说: 基本清空了动态，清理了很多SB言论。
+
+最后，Python工程师应该转Go. 完 ](https://www.douban.com/people/62943420/status/4066297479/)
+- [转发 姚钢强 的动态](https://www.douban.com/people/62943420/status/2620338288/)
+- [转发 阿北 的动态](https://www.douban.com/people/62943420/status/2424986052/)
+- [说: 产品开发真的是一代不如一代了 💊 ](https://www.douban.com/people/62943420/status/2300760441/)
+- [分享 豆瓣为什么不去买服务器？？？](https://www.douban.com/people/62943420/status/2299477678/)
+- [转发 Kejun 的动态](https://www.douban.com/people/62943420/status/2096634747/)
+- [分享 豆瓣东西下线通知](https://www.douban.com/people/62943420/status/2025176576/)
+- [转发 岛上的夏奈 的动态](https://www.douban.com/people/62943420/status/1933303434/)
+- [写了 thon Web开发 勘误 的读书笔记](https://www.douban.com/people/62943420/status/1891258518/)
+- [转发 伊豆 的动态](https://www.douban.com/people/62943420/status/1793358947/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
