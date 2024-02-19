@@ -55,6 +55,7 @@ More on <a href="https://www.dongwm.com" target="blank">dongwm.com</a>
 **✨ 豆瓣动态**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 热辣滚烫‎ (2024)](https://www.douban.com/people/62943420/status/4526862340/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
